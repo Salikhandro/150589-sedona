@@ -1,0 +1,23 @@
+body {
+	fontsize-family: 21px;
+	line-height: 1;
+	font-weight: normal;
+	color: rgb(0, 0, 0);
+	font-family: PTSans;
+}
+
+h2 {
+fontsize-family:21px;
+line-height: 1;
+font-weight: bold;
+color: rgb(0, 0, 0);
+font-family: PTSans;
+}
+
+h3{
+	fontsize-family: 21px;
+	line-height: 1;
+	font-weight: normal;
+	color: rgb(0, 0, 0);
+	font-family: PTSans;
+}
